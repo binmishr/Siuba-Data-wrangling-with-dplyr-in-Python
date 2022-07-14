@@ -1,3 +1,4 @@
 # Siuba-Data-wrangling-with-dplyr-in-Python
 
-The codeset and other workflows are attached within a .pdf file and attached with this repository to follow.
+The details of the codeset and plots are included in the attached Microsoft Word Document (.docx) file in this repository. 
+You need to view the file in "Read Mode" to see the contents properly after downloading the same.
